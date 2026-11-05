@@ -1,0 +1,17 @@
+<!doctype html>
+<html lang="zh-Hant">
+<head>
+ <meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+ <meta name="theme-color" content="#176c60"><title>國小數學能力測驗｜期中考複習網站</title>
+ <link rel="stylesheet" href="style.css">
+ <script defer src="questions.js"></script><script defer src="core.js"></script><script defer src="app.js"></script>
+</head>
+<body>
+<a class="skip" href="#main">跳至主要內容</a>
+<header class="header"><a class="brand" href="#home"><span class="logo" aria-hidden="true">π</span><span>數學練習室<small>國民小學 · 教師資格考試</small></span></a><nav aria-label="主要功能"><a href="#home" data-nav="home">總覽</a><a href="#read" data-nav="read">閱讀題庫</a><a href="#quiz" data-nav="quiz">隨機測驗</a><a href="#wrong" data-nav="wrong">錯題本 <b id="wrong-count">0</b></a><a href="#history" data-nav="history">學習紀錄</a></nav><div class="backup"><button id="export">匯出備份</button><label for="import">匯入備份</label><input id="import" type="file" accept=".json,application/json" hidden></div></header>
+<main id="main" tabindex="-1"></main>
+<footer>保留原始題號，專注每一次練習。<span>110～115 年官方試題 · 只顯示官方答案，不提供詳解</span></footer>
+<dialog id="image-dialog" aria-labelledby="zoom-title"><div class="dialog-head"><h2 id="zoom-title">原題放大檢視</h2><button id="close-zoom" aria-label="關閉放大檢視">關閉 ✕</button></div><p class="muted">可左右、上下滑動查看完整題幹、選項及圖表。</p><div class="zoom-scroll"><img id="zoom-image" alt="完整題目原卷"></div></dialog>
+<div id="notice" role="status" aria-live="polite"></div>
+<noscript>請在瀏覽器啟用 JavaScript 後開啟本網站。</noscript>
+</body></html>
