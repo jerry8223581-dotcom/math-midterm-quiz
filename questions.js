@@ -1,8 +1,8 @@
+/* 正式題庫僅111～115年；historyCatalog保留歷史紀錄，不供出題。 */
 window.MATH_BANK = {
   "schemaVersion": 2,
-  "scopeVersion": "four-units-v2-approved-supplements",
+  "scopeVersion": "four-units-v3-years-111-115",
   "years": [
-    110,
     111,
     112,
     113,
@@ -28,126 +28,6 @@ window.MATH_BANK = {
     }
   ],
   "questions": [
-    {
-      "id": "math-110-11",
-      "year": 110,
-      "number": 11,
-      "answer": "A",
-      "status": "included",
-      "unit": "u21",
-      "images": [
-        "assets/added-110-q11-1.png"
-      ],
-      "pages": [
-        {
-          "pdf": 5,
-          "printed": "4"
-        }
-      ],
-      "answerPage": 1,
-      "searchText": "                        之間選取一個幸運數，將幸運數11.魔術師邀請觀眾進行魔術互動，請觀眾在10後，再減去此幸運數，接著把計算結果告訴魔術師。下列何者不可能是觀眾到99 乘以10的計算結果？\n   (A) 81   (B) 90   (C) 117   (D) 477",
-      "group": null,
-      "supplemental": false,
-      "scopeStatus": "confirmed",
-      "sourceUrl": "https://littletree.ndhu.edu.tw/var/file/23/1023/img/4651/282201102.pdf",
-      "answerSourceUrl": "https://littletree.ndhu.edu.tw/var/file/23/1023/img/4653/227235640.pdf"
-    },
-    {
-      "id": "math-110-15",
-      "year": 110,
-      "number": 15,
-      "answer": "C",
-      "status": "included",
-      "unit": "u2",
-      "images": [
-        "assets/added-110-q15-1.png"
-      ],
-      "pages": [
-        {
-          "pdf": 7,
-          "printed": "6"
-        }
-      ],
-      "answerPage": 1,
-      "searchText": "15.教師想用生活上的情境說明「分配律」的意義，有兩個情境如下：公斤，若每公斤的售價一樣，則「賣出 甲、將一盒5 公斤的櫻桃分裝成2 公斤和3    公斤櫻桃得到的錢」相同 乙、某人買了帽子、衣服和褲子各一件，「先算帽子和衣服的錢，再加上褲子的錢」和2 公斤櫻桃的錢加上3 公斤櫻桃的錢」和「賣出5\n\n   「先算衣服和褲子的錢，再加上帽子的錢」的總價一樣\n\n 問哪些情境適合說明「分配律」的意義？\n\n   甲、乙都適合   (A) 甲、乙都不適合   (B) 甲適合、乙不適合   (C) 甲不適合、乙適合   (D)",
-      "group": null,
-      "supplemental": false,
-      "scopeStatus": "confirmed",
-      "sourceUrl": "https://littletree.ndhu.edu.tw/var/file/23/1023/img/4651/282201102.pdf",
-      "answerSourceUrl": "https://littletree.ndhu.edu.tw/var/file/23/1023/img/4653/227235640.pdf"
-    },
-    {
-      "id": "math-110-18",
-      "year": 110,
-      "number": 18,
-      "answer": "D",
-      "status": "included",
-      "unit": "u1",
-      "images": [
-        "assets/added-110-q18-1.png"
-      ],
-      "pages": [
-        {
-          "pdf": 8,
-          "printed": "7"
-        }
-      ],
-      "answerPage": 1,
-      "searchText": "18.對剛學加減問題的學童而言，下列哪一個問題最為困難？塊，剩下幾塊餅乾？   (A) 桌上有8 塊餅乾，弟弟吃掉了3 瓶，現在共有幾瓶紅茶？   (B) 桌上原有8 瓶紅茶，媽媽又放了3位學童在畫圖，一共有幾位學童？   (C) 教室裡有8 位學童在看書，3        塊，桌上原有幾塊餅乾？   (D) 桌上有一些餅乾，弟弟吃掉了8 塊，還剩下3",
-      "group": null,
-      "supplemental": false,
-      "scopeStatus": "confirmed",
-      "sourceUrl": "https://littletree.ndhu.edu.tw/var/file/23/1023/img/4651/282201102.pdf",
-      "answerSourceUrl": "https://littletree.ndhu.edu.tw/var/file/23/1023/img/4653/227235640.pdf"
-    },
-    {
-      "id": "math-110-22",
-      "year": 110,
-      "number": 22,
-      "answer": "D",
-      "status": "included",
-      "unit": "u21",
-      "images": [
-        "assets/added-110-q22-1.png"
-      ],
-      "pages": [
-        {
-          "pdf": 10,
-          "printed": "9"
-        }
-      ],
-      "answerPage": 1,
-      "searchText": "             兩數互質，而且他們都是質數。所以如果兩數互質，那麼22.某學童說：「我發現7、11這兩數一定都是質數。」\n\n 以下是甲、乙兩位學童針對該學童說法的回應：\n\n            兩數互質，而且他們都是質數 甲、他說的對，像3、5 兩數互質，但他們不一定都是質數 乙、他說錯了，像5、27請判斷甲、乙兩位學童的回應是否正確？\n\n   甲、乙都正確   (A) 甲、乙都不正確   (B) 甲正確、乙不正確   (C) 甲不正確、乙正確   (D)",
-      "group": null,
-      "supplemental": false,
-      "scopeStatus": "confirmed",
-      "sourceUrl": "https://littletree.ndhu.edu.tw/var/file/23/1023/img/4651/282201102.pdf",
-      "answerSourceUrl": "https://littletree.ndhu.edu.tw/var/file/23/1023/img/4653/227235640.pdf"
-    },
-    {
-      "id": "math-110-23",
-      "year": 110,
-      "number": 23,
-      "answer": "B",
-      "status": "included",
-      "unit": "u1",
-      "images": [
-        "assets/added-110-q23-1.png"
-      ],
-      "pages": [
-        {
-          "pdf": 10,
-          "printed": "9"
-        }
-      ],
-      "answerPage": 1,
-      "searchText": "23.教師想幫助學童理解「加減互逆」的意義，下列哪一個布題最不適合？元的球，問還要存多少元？   (A) 小言有13 元，他想要買一顆25塊餅乾，問還剩下多少塊餅乾？   (B) 桌上有20 塊餅乾，弟弟吃了9   元，問小文原來有多少元？   (C) 小文買了一輛30 元的玩具車後剩下5    塊，問桌上原來有幾塊餅乾？   (D) 桌上有一些餅乾，媽媽又放了6 塊，現在有15",
-      "group": null,
-      "supplemental": false,
-      "scopeStatus": "confirmed",
-      "sourceUrl": "https://littletree.ndhu.edu.tw/var/file/23/1023/img/4651/282201102.pdf",
-      "answerSourceUrl": "https://littletree.ndhu.edu.tw/var/file/23/1023/img/4653/227235640.pdf"
-    },
     {
       "id": "math-111-5",
       "year": 111,
